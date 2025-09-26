@@ -1,1 +1,1 @@
-
+print("WebSocket server placeholder")
